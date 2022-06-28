@@ -13,7 +13,7 @@
 	<artifactId>spring-user-auth-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-user-auth-api</name>
-	<description> Demo Api spring boot pour masco </description>
+	<description> Demo Api spring boot pour masco  </description>
 
 	<properties>
 		<java.version>11</java.version>
