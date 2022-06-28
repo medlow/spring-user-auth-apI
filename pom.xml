@@ -9,14 +9,14 @@
 		<version>2.3.0.RELEASE</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>net.javaguides</groupId>
-	<artifactId>registration-login-spring-boot-security-thymeleaf</artifactId>
+	<groupId>ccom.meddlow</groupId>
+	<artifactId>spring-user-auth-api</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>registration-login-spring-boot-security-thymeleaf</name>
-	<description>Demo project for Spring Boot Thymeleaf and Hibernate </description>
+	<name>spring-user-auth-api</name>
+	<description> Demo Api spring boot pour masco </description>
 
 	<properties>
-		<java.version>8</java.version>
+		<java.version>11</java.version>
 	</properties>
 
 	<dependencies>
