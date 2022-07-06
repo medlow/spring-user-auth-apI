@@ -13,6 +13,12 @@ Pour demarrer le projet il faut:
 
 
 Api: localhost:8080
+
+Endppoints: 
+- /  #page d’acceuil
+- /login
+- /registration
+
 Mysql:localhost:3306
 
 -----fin----
